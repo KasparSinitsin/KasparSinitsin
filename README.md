@@ -1,5 +1,7 @@
 ![Greeting](./greeting.png)
 
+![Llama animation](./llama.gif)
+
 <!--
 **KasparSinitsin/KasparSinitsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
