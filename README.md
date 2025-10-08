@@ -1,8 +1,7 @@
-<img src="./llama.gif" width="150px" align="right" />
-<img src="./greeting.png" width="300px" />
+<img src="./banner.jpg" width="600px"/>
 
 <h2>🌱 Current Projects:</h2>
-🦥 <a href="https://github.com/Alireza2A/event-scheduler" target="_blank">ChillPlanner: Event Scheduler (collaborative work at WBS Coding School)</a>
+🎁 <a href="https://github.com/" target="_blank">SPASS:BOX - mini-games about Germany</a>
 
 
 <h2>🎨 <a href="https://kasparsinitsin.github.io/cv/" target="_blank">My CV</a></h2>
