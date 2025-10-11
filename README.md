@@ -1,4 +1,4 @@
-<img src="./banne.jpg"/>
+<img src="./banner.jpg"/>
 
 <h2>🌱 Current Projects:</h2>
 🎁 <a href="https://github.com/" target="_blank">SPASS:BOX - mini-games about Germany</a>
