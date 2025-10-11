@@ -1,12 +1,11 @@
 <img src="./mybanner.jpg"/>
 
-<h2>🌱 Current Projects:</h2>
+<h1>🎨 <a href="https://kasparsinitsin.github.io/cv/" target="_blank">My CV</a></h1>
+
+<h1>🌱 Current Projects:</h1>
 🎁 <a href="https://github.com/" target="_blank">SPASS:BOX - mini-games about Germany</a>
 
-
-<h2>🎨 <a href="https://kasparsinitsin.github.io/cv/" target="_blank">My CV</a></h2>
-
-<h2>🗂️ My Portfolio:</h2>
+<h1>🗂️ Finished Projects:</h1>
 <ul style="list-style: none;">
   <li>🕺<a href="https://farrokhzad.onrender.com" target="_blank">Fereydoon Farrokhzad fan website (HTML+CSS)</a></li>
   <li>🤖<a href="https://kasparsinitsin.github.io/neontronic/" target="_blank">NeonTronic Circus: landing page (Tailwind+Bootstrap+HTML)</a></li>
