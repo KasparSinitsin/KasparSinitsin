@@ -14,5 +14,4 @@
   <li>🐸<a href="https://kasparsinitsin.github.io/toads-n-snakes/index-en.html" target="_blank">Toads'N'Snakes landing page (Tailwind+HTML)</a></li>
   <li>🧑‍⚖️<a href="https://rbg-quotes.onrender.com/" target="_blank">Ruth Bader Ginsburg's Random Quote Generator (JavaScript practice)</a></li>
   <li>🎥<a href="https://moviediary-cpsz.onrender.com/" target="_blank">Movie Diary (React+Vite+Tailwind) (collaborative work at WBS Coding School)</a></li>
-  <li>🦄<a href="https://kasparsinitsin.github.io/4creatures/" target="_blank">4 Sacred Beasts of Chinese mythology (Tailwind+HTML)</a></li>
 </ul>
