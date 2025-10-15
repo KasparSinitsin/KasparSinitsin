@@ -1,6 +1,6 @@
 <img src="./mybanner.jpg"/>
 
-<h1>🎨 <a href="https://kasparsinitsin.github.io/cv/" target="_blank">My CV</a></h1>
+<h1>🎨 <a href="https://kasparsinitsin.pages.dev/" target="_blank">My CV</a></h1>
 
 <h1>🌱 Current Projects:</h1>
 🎁 <a href="https://github.com/" target="_blank">SPASS:BOX - mini-games about Germany</a>
