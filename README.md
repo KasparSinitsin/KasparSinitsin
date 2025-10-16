@@ -3,7 +3,7 @@
 <h1>🎨 <a href="https://kasparsinitsin.pages.dev/" target="_blank">My CV</a></h1>
 
 <h1>🌱 Current Projects:</h1>
-🎁 <a href="https://github.com/" target="_blank">SPASS:BOX - mini-games about Germany</a>
+🎁 <a href="https://github.com/KasparSinitsin/spassbox" target="_blank">SPASS:BOX - mini-games about Germany (React+Vite+Tailwind)</a>
 
 <h1>🗂️ Finished Projects:</h1>
 <ul style="list-style: none;">
