@@ -4,6 +4,7 @@
 
 <h1>🌱 Current Projects:</h1>
 🎁 <a href="https://github.com/KasparSinitsin/spassbox" target="_blank">SPASS:BOX - mini-games about Germany (React+Vite+Tailwind)</a>
+🍾<a href="https://github.com/KasparSinitsin/messages-in-bottles" target="_blank">Messages in Bottles - refreshing CRUD backend in 1 week (Node.js, Express.js, MongoDB)</a>
 
 <h1>🗂️ Finished Projects:</h1>
 <ul style="list-style: none;">
