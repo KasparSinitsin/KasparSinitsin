@@ -9,7 +9,7 @@
 
 <h1>🗂️ Finished Projects:</h1>
 <ul style="list-style: none;">
-  <li>🕺 <a href="https://farrokhzad.onrender.com" target="_blank">Fereydoon Farrokhzad fan website (HTML+CSS)</a></li>
+  <li>🕺 <a href="https://farrokhzad.onrender.com" target="_blank">Fereydoon Farrokhzad tribute website (HTML+CSS)</a></li>
   <li>🤖 <a href="https://kasparsinitsin.github.io/neontronic/" target="_blank">NeonTronic Circus website (Tailwind+Bootstrap+HTML)</a></li>
   <li>🫀 <a href="https://kasparsinitsin.github.io/heartsnatcher/" target="_blank">"The Heartsnatcher" movie premiere website (Tailwind+HTML)</a></li>
   <li>🐸 <a href="https://kasparsinitsin.github.io/toads-n-snakes/index-en.html" target="_blank">Toads'N'Snakes shop website (Tailwind+HTML)</a></li>
