@@ -12,7 +12,7 @@
   <li>🕺 <a href="https://farrokhzad.onrender.com" target="_blank">Fereydoon Farrokhzad tribute website (HTML+CSS)</a></li>
   <li>🤖 <a href="https://kasparsinitsin.github.io/neontronic/" target="_blank">NeonTronic Circus website (Tailwind+Bootstrap+HTML)</a></li>
   <li>🫀 <a href="https://kasparsinitsin.github.io/heartsnatcher/" target="_blank">"The Heartsnatcher" movie premiere website (Tailwind+HTML)</a></li>
+  <li>🧑‍⚖️ <a href="https://rbg-quotes.onrender.com/" target="_blank">Ruth Bader Ginsburg's Random Quote Generator (HTML+CSS+JavaScript)</a></li>
   <li>🐸 <a href="https://kasparsinitsin.github.io/toads-n-snakes/index-en.html" target="_blank">Toads'N'Snakes shop website (Tailwind+HTML)</a></li>
-  <li>🧑‍⚖️ <a href="https://rbg-quotes.onrender.com/" target="_blank">Ruth Bader Ginsburg's Random Quote Generator (JavaScript practice)</a></li>
   <li>🎥 <a href="https://moviediary-cpsz.onrender.com/" target="_blank">Movie Diary (React+Vite+Tailwind) (collaborative work at WBS Coding School)</a></li>
 </ul>
